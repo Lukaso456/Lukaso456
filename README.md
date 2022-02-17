@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lukaso456
-- 👀 I’m interested in Electronics, 3D printing and product desingning 
+- 👀 I’m interested in Electronics, 3D printing and product designing 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on R&D projects
 - 📫 How to reach me luisenaez@gmail.com
